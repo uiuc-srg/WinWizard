@@ -1,0 +1,19 @@
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0         24 K
+System                           4 Services                   0        304 K
+smss.exe                       240 Services                   0      1,220 K
+csrss.exe                      400 Services                   0      4,924 K
+wininit.exe                    500 Services                   0      4,936 K
+csrss.exe                      512 Console                    1     30,044 K
+services.exe                   564 Services                   0     12,948 K
+lsass.exe                      580 Services                   0     15,424 K
+lsm.exe                        588 Services                   0      4,668 K
+winlogon.exe                   652 Console                    1      7,840 K
+svchost.exe                    732 Services                   0     10,936 K
+nvvsvc.exe                     792 Services                   0      8,184 K
+svchost.exe                    832 Services                   0     10,472 K
+svchost.exe                    900 Services                   0     24,704 K
+svchost.exe                    972 Services                   0     25,024 K
+svchost.exe                   1000 Services                   0     22,784 K
+svchost.exe                    200 Services                   0     45,060 K
